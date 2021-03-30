@@ -16,6 +16,8 @@ conflicted::conflict_prefer("filter", "dplyr")
 ```
 
 ## Acknowledgement
+Lisa Simpson is not here anymore! 
+
 
 The idea for the data stems from the [tidytuesday initiative](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-16/readme.md) [@tidytuesday]; the data was scraped for [kaggle](https://thislinkdoesnotwork.error) from [steamcharts.com](https://steamcharts.com/).
 The code and graphics were adapted from [Ingrid Zoll's tidytuesday submission](https://itlzoll.netlify.app/post/tidy-tuesday-march-16/).
