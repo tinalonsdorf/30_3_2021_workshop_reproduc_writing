@@ -15,13 +15,7 @@ In the following the results of the fear profiles pilot conditioning task are pr
 rm(list = ls())
 
 ### Load packages
-library(ggplot2)
-library(grid)
-library(gridExtra)
-library(ez)
-library(lsr)
-library(psychReport)
-library(tidyr)
+pacman::p_load(ggplot2, grid, ...)
 
 options(scipen = 999)
 
